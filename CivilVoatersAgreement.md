@@ -5,13 +5,25 @@
 
 We the people of Voat do hereby declare the following to be our values - principles which we believe acting in congruence with will benefit our community.
 
-1. Respect others. Don't be a dickhead. Be polite, courteous, graceful, even during disagreements or disputes.
-2. Promote quality content - useful, informative, interesting, content - whether posts or comments, and shun noise and disruption.
-3. Share your voice, your opinion, your perspective. Everyone has a right to express themselves, whether through posting or voting, and that contribution benefits all of us.
+1. Respect others. Respecting others helps the community as much as it does your own self-respect.
+2. Promote quality content. Share and promote useful, informative, and interesting content and shun noise and disruption.
+3. Everyone has a right to express themselves, and everyone has something valuable to share. That contribution benefits all of us.
 
 In appreciation of this, we further declare the following habits and behaviors to promote those principles, and we affirm our belief where if they should be observed by even a fraction of Voaters that the common welfare shall benefit:
 
-[list of habits and behaviors to go here]
+1. Don't be a dick. Don't act maliciously toward others. Try not to act in opposition to the values listed above.
+2. Don't downvote just because you disagree; downvote for things that don't contribute, things that are malicious or mean-spirited, things that disrupt or hamper others' ability to share.
+3. Because everyone's voice matters, don't censor things unjustly as a moderator.
+4. Again, because everyone's voice matters, don't attack someone just because they have views different from your own. Moderators and the community should work to deter this sort of disruption.
+4. Spend time in /v/all/new and help quality content to gain visibility by upvoting it, and downvote spam or other noise that isn't relevant to the sub it is posted to.
+5. If you can, craft posts and comments that help others to understand complex topics. Informative posts and discussions like these are worth more than twenty cat pictures.
+6. Upvote liberally. Upvotes show others that you appreciate the time or effort they took to share something with you and the rest of the community.
+7. Downvote judiciously. A downvote is a tool to wielded with reverence. Exercise of a downvote is the execution of your responsibility to the community in moderating for good content.
+8. Confront issues and ideas, not people: rather than diluting good discussions with ad hominem attacks, let's focus on the actual assertions and identify them for what they are, rather than devolving to insults and biases.
+9. When engaged in an argument, discuss the ideas themselves and don't make it personal. Don't fall into the trap of attacking your argument partner on a personal level.
+10. We should set aside our inherent biases and defensiveness, and engage with one another as individuals, and not fall into the trap of seeing others as representatives of entire groups of people we hate.
+11. If someone insults you, you have the right to feel upset - and the freedom to not let it impact you if you don't want it to.
+12. Remain critical, not cynical, of everything that crosses our path. Dissent is to be valued and honored! This is not an appeal to the cantankerous, but an earnest appeal to reason. Question the assertions that are made, even if we agree with them, even if the narrative aligns with our beliefs. Question and demand evidence.
 
 
 ###Our agreement
