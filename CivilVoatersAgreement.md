@@ -33,6 +33,7 @@ In appreciation of this, we further declare the following habits and behaviors t
 18. Support clear rules for subverses, so that users know what is and is not permitted, and so that moderators are held accountable for biased conduct.
 19. Don't accept moderator positions when you have a conflict of interest. i.e. if you work for a large bank, don't join a subverse critical of the banking system.
 20. Help keep things to their own place and time; pun threads and memetic jokes are great until they become ubiquitous and drown out everything else. Everything in moderation.
+21. Avoid posting "click-bait" or sensationalized titles. https://en.wikipedia.org/wiki/Clickbait
 
 ###Our agreement
 
