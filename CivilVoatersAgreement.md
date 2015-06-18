@@ -1,7 +1,7 @@
 ##Civil Voater's Agreement
 #####The Voluntary Non-Binding Social Contract for Voat.co
 
-The civil voaters' agreement is a non-binding voluntary social contract for users of the website Voat.co. Its purpose is to instill a sense of civility and responsible use of the site and users' abilities on it - such as commenting, posting, voting, and use of moderation tools. The ultimate aim of the Agreement is to promote a more enriching, more enjoyable and useful community and experience for everyone involved. Anyone may sign their agreement with the principles and habits is describes.
+The civil voaters' agreement is a democratically authored non-binding voluntary social contract for users of the website Voat.co. Its purpose is to instill a sense of civility and responsible use of the site and users' abilities on it - such as commenting, posting, voting, and use of moderation tools. The ultimate aim of the Agreement is to promote a more enriching, more enjoyable and useful community and experience for everyone involved. Anyone may sign their agreement with the principles and habits is describes.
 
 ###Values and Habits
 
