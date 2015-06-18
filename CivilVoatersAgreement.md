@@ -49,7 +49,11 @@ Still though, we think these are good ideas for the moment, and we hope others w
 ###Technical Meta Stuff
 
 This is version 0.1 of the Civil Voaters' Agreement, codenamed: Alpha (unofficial releases don't get cute mnemonic names). It is hosted on github at: https://github.com/Mumberthrax/CivilVoatersAgreement  
-This document is licensed under the WTFPL public license, which basically means you can do wtf ever you want with it. http://www.wtfpl.net/  
-Information about this document, how it was written, and how it will be updated can be found at https://voat.co/v/CivilVoatersAgreement or on the github wiki, at https://github.com/Mumberthrax/CivilVoatersAgreement/wiki  
-This is not a legal contract, I am not a lawyer, you probably aren't either, and this doesn't mean we don't mean it when we sign.  
-This document is a listing of principles and beliefs in brief. Various commentaries and elaborations on these principles are available online and in other documents, some to be found at /v/VoatersAgreement or on the github wiki, at https://github.com/Mumberthrax/CivilVoatersAgreement/wiki
+
+Have an idea for a change to this document? Make a pull request! Democratic amendment conventions dictate what gets accepted. More info at: https://github.com/Mumberthrax/CivilVoatersAgreement/wiki
+
+Want to maintain your own version of this? Make a fork, or just copy-paste it and do whatever. It's under a free license: WTFPL http://www.wtfpl.net/
+
+This is not a legal contract, I am not a lawyer, you probably aren't either, and this doesn't mean we don't mean it when we sign.
+
+Discuss the Civil Voaters' Agreement at https://voat.co/v/VoatersAgreement
