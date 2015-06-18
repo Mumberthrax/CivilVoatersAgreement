@@ -34,6 +34,7 @@ In appreciation of this, we further declare the following habits and behaviors t
 19. Don't accept moderator positions when you have a conflict of interest. i.e. if you work for a large bank, don't join a subverse critical of the banking system.
 20. Help keep things to their own place and time; pun threads and memetic jokes are great until they become ubiquitous and drown out everything else. Everything in moderation.
 21. Avoid posting "click-bait" or sensationalized titles. https://en.wikipedia.org/wiki/Clickbait
+22. Even though this is the internet, it isn't "Just the internet". Nothing about online interactions means we should abandon all useful social norms. https://www.youtube.com/watch?v=9m3jLOCSEsE
 
 ###Our agreement
 
