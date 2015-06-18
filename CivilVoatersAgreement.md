@@ -1,6 +1,8 @@
 ##Civil Voater's Agreement
 #####The Voluntary Non-Binding Social Contract for Voat.co
 
+The civil voaters' agreement is a non-binding voluntary social contract for users of the website Voat.co. Its purpose is to instill a sense of civility and responsible use of the site, and users abilities on it - such as commenting, posting, voting, and use of moderation tools. The ultimate aim of the Agreement is to promote a more enriching, more enjoyable and useful community and experience for everyone involved. Anyone may sign their agreement with the principles and habits is describes.
+
 ###Values and Habits
 
 We the people of Voat do hereby declare the following to be our values - principles which we believe acting in congruence with will benefit our community.
@@ -52,6 +54,6 @@ Have an idea for a change to this document? Make a pull request! Democratic amen
 
 Want to maintain your own version of this? Make a fork, or just copy-paste it and do whatever. It's under a free license: WTFPL http://www.wtfpl.net/
 
-This is not a legal contract, I am not a lawyer, you probably aren't either, and this doesn't mean we don't mean it when we sign.
+This is not a legal contract, I am not a lawyer, you probably aren't either, and this doesn't mean we don't mean it when we sign. The Civil Voaters' Agreement is not explicitly endorsed by the administration of voat.co; it is a user-maintained project.
 
 Discuss the Civil Voaters' Agreement at https://voat.co/v/VoatersAgreement
