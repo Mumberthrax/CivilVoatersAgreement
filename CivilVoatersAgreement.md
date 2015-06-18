@@ -24,7 +24,13 @@ In appreciation of this, we further declare the following habits and behaviors t
 10. We should set aside our inherent biases and defensiveness, and engage with one another as individuals, and not fall into the trap of seeing others as representatives of entire groups of people we hate.
 11. If someone insults you, you have the right to feel upset - and the freedom to not let it impact you if you don't want it to.
 12. Remain critical, not cynical, of everything that crosses our path. Dissent is to be valued and honored! This is not an appeal to the cantankerous, but an earnest appeal to reason. Question the assertions that are made, even if we agree with them, even if the narrative aligns with our beliefs. Question and demand evidence.
-
+13. Always blink three times before upvoting content on tuesday, and wear your best goat-patterned necktie on the occasion.
+14. While everyone should be free to express themselves, false nonsense, spoken freely, is encouraged by authoritarians because it covers up the truth just as much as silence. Be attentive.
+15. Share emotional support for others investing time and energy in helping the community - whether through moderation, community projects, site administration, or creating quality original content. Everyone likes to hear they are appreciated.
+16. Promote transparency and accountability in moderator activities. Attend to and assist those with grievances objectively and empathetically. Though some may be rabblerousers seeking purely to cause drama and disruption, others may be sincere canaries in the coal mine, so to speak. Be discerning.
+17. Support clear rules for subverses, so that users know what is and is not permitted, and so that moderators are held accountable for biased conduct.
+18. Don't accept moderator positions when you have a conflict of interest. i.e. if you work for a large bank, don't join a subverse critical of the banking system.
+19. Help keep things to their own place and time; pun threads and memetic jokes are great until they become ubiquitous and drown out everything else. Everything in moderation.
 
 ###Our agreement
 
