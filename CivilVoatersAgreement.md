@@ -34,17 +34,15 @@ In appreciation of this, we further declare the following habits and behaviors t
 
 ###Our agreement
 
-We the undersigned affirm our agreement with these principles, and promise we'll try pretty hard to live by them.
+In addition to asserting agreement with the above listed habits and promising we'll try pretty hard to stick to them, we assert the following meta-stuff:
 
-Support of these principles should be voluntary, thus we promise that we won't try to coerce anyone into signing nor request they sign, won't be sanctimonious and try to shame or punish people for not signing or for not abiding by the principles even if they signed - and especially if they didn't sign.
+- Support of these principles should be voluntary, thus we promise that we won't try to coerce anyone into signing nor request they sign, won't be sanctimonious and try to shame or punish people for not signing or for not abiding by the principles even if they signed - and especially if they didn't sign.
 
-We affirm that signing this thing is a non-binding act, simply expressing an opinion of support and agreement *at this time*.
+- Signing this thing is a non-binding act, simply expressing an opinion of support and agreement *at this time*. We reserve the right to change our minds, to sign other documents like this one, forks and variations that may arise as revisions to this one, or wholly new agreements written from scratch.
 
-We reserve the right to change our minds, to sign other documents like this one, forks and variations that may arise as revisions to this one, or as wholly new agreements written from scratch.
+- Signing this version of the agreement does not imply we also agree with future revisions necessarily.
 
-We also acknowledge that though this document is intended to be reviewed and updated on a regular basis, our signature here does not imply we also agree with future revisions necessarily - we can stick our name on whatever we want, so nyah :-P.
-
-Still though, we think these are good ideas for the moment, and we hope others will sign and try to follow what's written above. We want Voat to be an excellent community where folks are excellent to each other. Party on, dudes.
+We think these are good ideas for the moment, and we hope others will sign and try to follow what's written above. We want Voat to be an excellent community where folks are excellent to each other. Party on, dudes.
 
 ###Technical Meta Stuff
 
